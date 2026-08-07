@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-yicpjm.pulaucuansite.com/sitemap.xml
